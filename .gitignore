@@ -1,5 +1,4 @@
 venv/
 settings.py
 db.sqlite3
-bio_recorder/__pycache__/
-plant_app/__pycache__/
+*/__pycache__/
